@@ -1,0 +1,29 @@
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 0%,
+    rgba(1, 183, 236, 1) 58%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+form {
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.celsius {
+  font-size: 4rem;
+}
+.celsiusMin {
+  font-size: 2rem;
+}
+.celsiusMax {
+  font-size: 2rem;
+}
+
+.container {
+  max-width: 600px;
+}
